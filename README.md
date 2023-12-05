@@ -19,7 +19,7 @@ This repository contains code for Segreti Di Nonna, an immersive online resource
     - [Test Results](#test-results)
   - [Contact](#contact)
   - [Media](#media)
-    - [HTML and CSS Validator](#html-and-css-validator)
+  - [HTML and CSS Validator](#html-and-css-validator)
 
 ## Description
 
@@ -51,6 +51,22 @@ Segreti Di Nonna is an online platform dedicated to sharing the traditional reci
 - Learn about the history and characteristics of Neapolitan and Roman pizzas.
 - Follow the provided guides to try making these pizzas at home.
 - Engage with social media for further updates and sharing.
+
+
+Homepage: Offers foundational details and factual content to elucidate the website's purpose, complemented by visual imagery aimed at conveying its essence.
+![Home](assets/images/readmeimages/home.jpg)
+
+Bake Along Tab: Contains a detailed recipe for crafting authentic Neapolitan pizza.
+![Bake Along](assets/images/readmeimages/bakealong.jpg)
+
+Neapolitan Pizza Tab: Showcases a gallery of images displaying Neapolitan pizza in all its authenticity.
+![Neapolitan Pizza](assets/images/readmeimages/neapolitangallery.jpg)
+
+Roman Pizza Tab: Features a gallery displaying various renditions of Roman pizza.
+![Roman Pizza](assets/images/readmeimages/romangallery.jpg)
+
+About Tab: Houses information regarding the website's concept, its genesis, and the underlying ideology.
+![About](assets/images/readmeimages/about.jpg)
 
 
 ## Am I Responsive
@@ -130,7 +146,7 @@ The images and videos were taken from
 
 ---
 
-### HTML and CSS Validator
+## HTML and CSS Validator
 
 Validator completed for all pages.
 ![HTML Validator](assets/images/readmeimages/validator.jpg)
