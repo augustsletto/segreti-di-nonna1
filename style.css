@@ -377,6 +377,10 @@ footer img {
 
 .dough {
     line-height: 40px;
+    
+}
+.dough,.ingredients{
+    width: 80%;
 }
 
 .bakealong li {
@@ -390,9 +394,10 @@ footer img {
 
 .bakealong img,
 .bakealong video {
-    width: 600px;
+    width: 40%;
     border-radius: 16px;
     border: 3px;
+    min-width: 200px;
 
 }
 
@@ -400,11 +405,13 @@ footer img {
 .tomato-sauce,
 .poolish {
     max-width: 800px;
+    
+    width:50%;
 }
 
 .ingredients,
 .dough {
-    margin-left: -800px;
+
 
 }
 
@@ -429,7 +436,7 @@ footer img {
     align-items: center;
     text-align: center;
     justify-content: center;
-
+    
 
     margin: 100px;
 
@@ -442,7 +449,9 @@ footer img {
 
 
 #youtube-pizza iframe {
-    margin: 40px;
+    width:1120px;
+    height:630px;
+    
 
 
 }
@@ -455,6 +464,7 @@ footer img {
 
 
     }
+  
 
     .titleh1 {
         font-size: 40px;
@@ -533,6 +543,7 @@ footer img {
     .titlep {
         font-size: 14px;
     }
+    
 }
 
 @media screen and (max-width:768px) {
@@ -553,6 +564,21 @@ footer img {
         line-height: 20px;
         margin-bottom: 10px;
     }
+    .bakealong li {
+    font-size: 16px;
+    width: 90%;
+    line-height: 26px;
+    margin-left: 10px;
+}
+    .bakealong h1{
+        font-size: 26px;;
+    }
+    .bakealong{
+        margin: 0 10px 
+    }
+    
+    
+    
 }
 
 @media screen and (min-width: 576px) {
@@ -639,10 +665,45 @@ footer img {
         margin-right: 40px;
     }
 
-    .titlep {
+    .title
+        p {
         font-size: 38px;
         line-height: 36px;
     }
+}
+
+@media screen and (max-width: 1200px){
+    #youtube-pizza iframe {
+        width:840px;
+        height:472.5px;
+
+}
+}
+
+@media screen and (max-width: 1024px){
+    #youtube-pizza iframe {
+        width:560px;
+        height:315px;
+
+}
+    
+
+
+}
+@media screen and (max-width: 767px){
+    #youtube-pizza iframe {
+        width:280px;
+        height:157px;
+
+}
+#youtube-pizza p{
+    line-height: 28px;
+    font-size: 18px;
+}
+
+    
+
+
 }
 
 @media (max-width: 1024px) {
@@ -663,4 +724,18 @@ footer img {
     .menu {
         background-color: white;
     }
+    
+    
+}
+
+
+
+
+@media screen and (max-width: 768px){
+    .bakealong img,
+    .bakealong video {
+        width:200px;
+            
+    
+}
 }
