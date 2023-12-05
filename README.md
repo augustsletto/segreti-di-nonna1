@@ -1,25 +1,23 @@
-# Segreti Di Nonna - Pizza Project
+# Segreti Di Nonna - Authentic Pizza website
 
-This repository contains code for Segreti Di Nonna, an immersive online resource providing insights into crafting authentic Neapolitan and Roman pizzas. The project focuses on revealing the secrets behind the rich history of these pizza styles while offering valuable guidance on creating the perfect pizza at home.
+This repository contains code for Segreti Di Nonna, an immersive online resource providing insights into crafting authentic Neapolitan pizzas. The project focuses on revealing the secrets behind the rich history of these pizza styles while offering valuable guidance on creating the perfect pizza at home.
 
 ## Table of Contents
 
 
-- [Segreti Di Nonna - Pizza Project](#segreti-di-nonna---pizza-project)
+- [Segreti Di Nonna - Authentic Pizza website](#segreti-di-nonna---authentic-pizza-website)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
-  - [Setup](#setup)
   - [Usage](#usage)
-  - [Am I Responsive](#am-i-responsive)
-  - [Images](#images)
-  - [Testing](#testing)
+    - [Testing](#testing)
     - [Overview](#overview)
     - [Test Cases](#test-cases)
     - [Tools Used](#tools-used)
     - [Test Results](#test-results)
   - [Contact](#contact)
+  - [Deployment](#deployment)
   - [Media](#media)
   - [HTML and CSS Validator](#html-and-css-validator)
 
@@ -41,11 +39,6 @@ Segreti Di Nonna is an online platform dedicated to sharing the traditional reci
 - [Font Awesome](https://fontawesome.com/) for icons
 - Google Fonts for typography
 - Responsive design using media queries
-
-## Setup
-
-1. Clone the repository: `git clone https://github.com/your-username/segreti-di-nonna.git`
-2. Open `index.html` in a web browser or set up a local server for testing.
 
 ## Usage
 
@@ -75,34 +68,34 @@ About Tab: Houses information regarding the website's concept, its genesis, and 
 
 
 
-_Desktop Navbar_
+Desktop Navbar
 
 with responsive underline and color change on hover.
 ![Navbar Desktop](assets/images/readmeimages/navbar-desktop.jpg)
 
-_ith working hamburger_con to toggle
+with working hamburger icon to toggle
 ![Mobile Navbar](assets/images/readmeimages/mobilenavbar.jpg)
 
-_Responsive photo gallery_
+Responsive photo gallery
 
-_[Roman Pizza](assets/ima_s/readmeimages/neapolitangallery-desktop.jpg)
+![Roman Pizza](assets/images/readmeimages/neapolitangallery-desktop.jpg)
 ![Roman Pizza](assets/images/readmeimages/neapolitandesktop-2rows.jpg)
 ![Roman Pizza](assets/images/readmeimages/neapolitangalleryphone.jpg)
 
 _Bake along with instructions_
 
-With controllable videos further instruct.
-_[Mobile Navbar](assets/image_readmeimages/recipe-videos.jpg)
+Featuring interactive videos demonstrating baking techniques for a hands-on learning experience.
+![Mobile Navbar](assets/images/readmeimages/recipe-videos.jpg)
 
 _Footer with social media links_
 
 Highlights on hover, bottom logo also works as a "home" button.
 ![Mobile Navbar](assets/images/readmeimages/footer.jpg)
-___Lighthouse test_
+Lighthouse test
 
 Scoring high as seen below.
 ![Mobile Navbar](assets/images/readmeimages/lighthouse.jpg)
-__## Testing
+### Testing
 
 ### Overview
 
@@ -127,6 +120,13 @@ The project successfully passed all test cases and demonstrated consistent perfo
 ## Contact
 
 For any inquiries or feedback, feel free to reach out via email: [augustsletto@gmail.com](mailto:augustsletto@gmail.com)
+
+## Deployment
+
+I began by developing the code in Visual Studio Code (VS Code). However, for deployment purposes, I transitioned the project to CodeAnywhere and subsequently deployed it using GitHub's platform.
+
+The deployed project can be accessed via the following link: 
+[Segreti di Nonna](https://augustsletto.github.io/segreti-di-nonna1/index.html)
 
 ## Media
 
