@@ -3,6 +3,8 @@
 This repository contains code for Segreti Di Nonna, an immersive online resource providing insights into crafting authentic Neapolitan and Roman pizzas. The project focuses on revealing the secrets behind the rich history of these pizza styles while offering valuable guidance on creating the perfect pizza at home.
 
 ## Table of Contents
+
+
 - [Segreti Di Nonna - Pizza Project](#segreti-di-nonna---pizza-project)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
@@ -51,8 +53,6 @@ Segreti Di Nonna is an online platform dedicated to sharing the traditional reci
 - Learn about the history and characteristics of Neapolitan and Roman pizzas.
 - Follow the provided guides to try making these pizzas at home.
 - Engage with social media for further updates and sharing.
-
-
 Homepage: Offers foundational details and factual content to elucidate the website's purpose, complemented by visual imagery aimed at conveying its essence.
 ![Home](assets/images/readmeimages/home.jpg)
 
@@ -69,50 +69,40 @@ About Tab: Houses information regarding the website's concept, its genesis, and 
 ![About](assets/images/readmeimages/about.jpg)
 
 
-## Am I Responsive
+
 ![Am I Responsive](assets/images/readmeimages/amiresponsive.jpg)
 [Link to Am I Responsive Page](https://ui.dev/amiresponsive?url=https://augustsletto.github.io/segreti-di-nonna1/index.html)
 
 
-## Images
-*Desktop Navbar*
+
+_Desktop Navbar_
 
 with responsive underline and color change on hover.
 ![Navbar Desktop](assets/images/readmeimages/navbar-desktop.jpg)
 
-
-
-*Tablet & Phone navbar* 
-
-With working hamburger icon to toggle
+_ith working hamburger_con to toggle
 ![Mobile Navbar](assets/images/readmeimages/mobilenavbar.jpg)
 
+_Responsive photo gallery_
 
-*Responsive photo gallery* 
-
-With one to 4 columns changing responsively.
-![Roman Pizza](assets/images/readmeimages/neapolitangallery-desktop.jpg)
+_[Roman Pizza](assets/ima_s/readmeimages/neapolitangallery-desktop.jpg)
 ![Roman Pizza](assets/images/readmeimages/neapolitandesktop-2rows.jpg)
 ![Roman Pizza](assets/images/readmeimages/neapolitangalleryphone.jpg)
 
-*Bake along with instructions* 
+_Bake along with instructions_
 
-With controllable videos further instruct. 
-![Mobile Navbar](assets/images/readmeimages/recipe-videos.jpg)
+With controllable videos further instruct.
+_[Mobile Navbar](assets/image_readmeimages/recipe-videos.jpg)
 
-
-*Footer with social media links* 
+_Footer with social media links_
 
 Highlights on hover, bottom logo also works as a "home" button.
 ![Mobile Navbar](assets/images/readmeimages/footer.jpg)
+___Lighthouse test_
 
-*Lighthouse test* 
-
-Scoring high as seen below. 
+Scoring high as seen below.
 ![Mobile Navbar](assets/images/readmeimages/lighthouse.jpg)
-
-
-## Testing
+__## Testing
 
 ### Overview
 
@@ -134,14 +124,13 @@ The Segreti Di Nonna project underwent extensive testing to ensure its functiona
 
 The project successfully passed all test cases and demonstrated consistent performance across different devices and browsers. Any reported issues were addressed and resolved.
 
-
 ## Contact
 
 For any inquiries or feedback, feel free to reach out via email: [augustsletto@gmail.com](mailto:augustsletto@gmail.com)
 
 ## Media
 
-The images and videos were taken from 
+The images and videos were taken from
 [Pexels](https://www.pexels.com/search/videos/neapolitan/)
 
 ---
@@ -151,4 +140,3 @@ The images and videos were taken from
 Validator completed for all pages.
 ![HTML Validator](assets/images/readmeimages/validator.jpg)
 ![CSS Validator](assets/images/readmeimages/cssvalidator.jpg)
-
